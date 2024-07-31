@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.afded29f.css",
+    "main.js": "/static/js/main.2a40ab3a.js",
+    "static/media/detransitionbaby.webp": "/static/media/detransitionbaby.940b038c2a33f6b44df5.webp",
+    "static/media/thedeath.webp": "/static/media/thedeath.680dd2433d655a018ef4.webp",
+    "static/media/shift.png": "/static/media/shift.64fec15417a74a99583c.png",
+    "static/media/advent.webp": "/static/media/advent.6d8f63877c65743f8a77.webp",
+    "static/media/pomferow.webp": "/static/media/pomferow.40052b339e1f9c2dd64e.webp",
+    "static/media/dinah.webp": "/static/media/dinah.8236ed70d9f03170b7f1.webp",
+    "index.html": "/index.html",
+    "main.afded29f.css.map": "/static/css/main.afded29f.css.map",
+    "main.2a40ab3a.js.map": "/static/js/main.2a40ab3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afded29f.css",
+    "static/js/main.2a40ab3a.js"
+  ]
+}
